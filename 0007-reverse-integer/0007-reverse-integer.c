@@ -1,5 +1,5 @@
 int reverse(int x) {
-    long long int rev_num = 0;
+    long int rev_num = 0;
     
     while (x != 0) {
         int digit = x % 10;
