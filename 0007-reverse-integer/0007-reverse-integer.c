@@ -14,5 +14,5 @@ int reverse(int x) {
         rev_num = rev_num * 10 + digit;
     }
     
-    return (int)rev_num;
+    return rev_num;
 }
