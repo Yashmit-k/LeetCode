@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashmit-k/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Yashmit-k/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashmit-k/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashmit-k/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Yashmit-k/LeetCode/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
