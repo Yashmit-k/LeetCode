@@ -6,7 +6,7 @@ public:
     int mid1 = (total - 1) / 2;
     int mid2 = total / 2;
     int i = 0, j = 0, count = 0;
-    int a = 0, b = 0; // To store median elements
+    int a = 0, b = 0;
 
     while (count <= mid2) {
         int val;
