@@ -11,7 +11,7 @@ public:
                 if(j>i+1 && a[j]==a[j-1])continue;
                 int l=j+1,r=len-1;
                 while(l<r){
-                    long int sum=(long int)a[i]+a[j]+a[l]+a[r];
+                    long long sum=(long long)a[i]+a[j]+a[l]+a[r];
                     if(sum==target){
                         ans.push_back({a[i],a[j],a[l],a[r]});
 
