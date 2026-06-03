@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Yashmit-k/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Yashmit-k/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yashmit-k/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yashmit-k/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yashmit-k/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashmit-k/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yashmit-k/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yashmit-k/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Yashmit-k/LeetCode/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
