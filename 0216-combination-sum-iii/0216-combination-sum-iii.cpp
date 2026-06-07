@@ -5,8 +5,7 @@ public:
         if(x.size()==k){
             if(sum==n){
                 y.push_back(x);
-                x.clear();
-                sum=0;
+
                 return;
             }
             else{
