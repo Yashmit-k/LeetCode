@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Yashmit-k/LeetCode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashmit-k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Yashmit-k/LeetCode/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/Yashmit-k/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Yashmit-k/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0052-n-queens-ii) |
+| [0216-combination-sum-iii](https://github.com/Yashmit-k/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Greedy
 |  |
 | ------- |
