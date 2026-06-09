@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Yashmit-k/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Yashmit-k/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Yashmit-k/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashmit-k/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Yashmit-k/LeetCode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Stack
 |  |
 | ------- |
