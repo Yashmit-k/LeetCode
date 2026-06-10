@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Yashmit-k/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Yashmit-k/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Yashmit-k/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0120-triangle) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Yashmit-k/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
@@ -262,5 +264,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashmit-k/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
