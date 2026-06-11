@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yashmit-k/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashmit-k/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Yashmit-k/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Yashmit-k/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Yashmit-k/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
