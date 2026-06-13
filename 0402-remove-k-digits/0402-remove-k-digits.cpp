@@ -13,18 +13,17 @@ public:
             s.pop();
             k--;
         }
-
         string ans="";
         while(!s.empty()){
             ans+=s.top();
             s.pop();
         }
         reverse(ans.begin(),ans.end());
-        int idx=0;
-        while(ans[idx]=='0'){
-            idx++;
+        int i=0;
+        while(i < ans.size() && ans[i] == '0'){
+            i++;
         }
-        ans=ans.substr(idx);
+        ans=ans.substr(i);
         return ans==""?"0":ans;
     }
 };
