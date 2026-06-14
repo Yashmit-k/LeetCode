@@ -7,7 +7,7 @@ public:
             m[i]++;
             ma=max(ma,m[i]);
         }
-        cout<<ma<<endl;
+        
         for(auto [i,j]:m){
             
             if(j==ma){
