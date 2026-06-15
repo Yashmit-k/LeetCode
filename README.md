@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yashmit-k/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yashmit-k/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Yashmit-k/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashmit-k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yashmit-k/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Yashmit-k/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Yashmit-k/LeetCode/tree/master/0322-coin-change) |
