@@ -1,24 +1,20 @@
 class Solution {
 public:
-    vector<string> letterCombinations(string digits) {
-        if (digits.empty()) return {};
-        vector<string> s={"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-        vector<string> ans;
-        backtrack(digits,s,0,ans,"");
-        return ans;
-    }
-    void backtrack(string digits,vector<string>& s,int index,vector<string>& ans,string x){
-        
-        if(index==digits.size()){
+    vector<string> s={"","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+    vector<string> ans;
+    void a(string digits,int count,string x){
+        cout<<x<<endl;
+        if(count==digits.length()){
             ans.push_back(x);
             return;
         }
-        else{
-            for(auto a:s[digits[index]-'0'-2]){
-                x+=a;
-                backtrack(digits,s,index+1,ans,x);
-                x.pop_back();
-            }
+        for(auto i:s[(digits[count]-'0')-1]){
+            cout<<i<<endl;
+            a(digits,count+1,x+i);
         }
+    }
+    vector<string> letterCombinations(string digits) {
+        a(digits,0,"");
+        return ans;
     }
 };
