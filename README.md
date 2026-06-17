@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yashmit-k/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Yashmit-k/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Yashmit-k/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Yashmit-k/LeetCode/tree/master/0050-powx-n) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yashmit-k/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yashmit-k/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Yashmit-k/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
 ## String
