@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yashmit-k/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Yashmit-k/LeetCode/tree/master/0050-powx-n) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Yashmit-k/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
