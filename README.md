@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yashmit-k/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yashmit-k/LeetCode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yashmit-k/LeetCode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## String
 |  |
 | ------- |
