@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Yashmit-k/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yashmit-k/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Yashmit-k/LeetCode/tree/master/0402-remove-k-digits) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Yashmit-k/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Yashmit-k/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashmit-k/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Yashmit-k/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Queue
 |  |
 | ------- |
