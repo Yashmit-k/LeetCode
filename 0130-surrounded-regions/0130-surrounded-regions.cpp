@@ -22,25 +22,21 @@ public:
 
         v.assign(rows, vector<int>(cols, 0));
 
-        // Top row
         for (int j = 0; j < cols; j++) {
             if (board[0][j] == 'O' && !v[0][j])
                 a(board, 0, j, rows, cols);
         }
 
-        // Bottom row
         for (int j = 0; j < cols; j++) {
             if (board[rows - 1][j] == 'O' && !v[rows - 1][j])
                 a(board, rows - 1, j, rows, cols);
         }
 
-        // Left column
         for (int i = 0; i < rows; i++) {
             if (board[i][0] == 'O' && !v[i][0])
                 a(board, i, 0, rows, cols);
         }
 
-        // Right column
         for (int i = 0; i < rows; i++) {
             if (board[i][cols - 1] == 'O' && !v[i][cols - 1])
                 a(board, i, cols - 1, rows, cols);
