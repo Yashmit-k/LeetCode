@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Yashmit-k/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Yashmit-k/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Yashmit-k/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Yashmit-k/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashmit-k/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yashmit-k/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/Yashmit-k/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashmit-k/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Yashmit-k/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yashmit-k/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashmit-k/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yashmit-k/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Yashmit-k/LeetCode/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -395,5 +400,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Yashmit-k/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
