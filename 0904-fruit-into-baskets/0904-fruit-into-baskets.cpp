@@ -8,7 +8,7 @@ public:
             if(m.find(i)==m.end()){
                 if(m.size()<2){
                     m[i]++;
-                    count++;
+                    
                 }
                 else{
                     while(m.size()==2){
@@ -18,13 +18,14 @@ public:
                         count--;
                     }
                     m[i]++;
-                    count++;
+                    
                 }
             }
             else{
                 m[i]++;
-                count++;
+                
             }
+            count++;
             mcount=max(count,mcount);
         }
         return mcount;
