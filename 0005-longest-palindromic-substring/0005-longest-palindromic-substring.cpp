@@ -1,31 +1,30 @@
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int length = s.length(), maxLen = 0;
-        string ans = "";
-
-        for (int i = 0; i < length; i++) {
-            for (int j = i; j < length; j++) {
-                if (ispalindrome(s, i, j)) {
-                    if (j - i + 1 > maxLen) {
-                        maxLen = j - i + 1;
-                        ans = s.substr(i, maxLen);
-                    }
+        int n=s.length(),m=1,sl,sr;
+        if(n==1)return s;
+        for(int i=1;i<n;i++){
+            int l=i,r=i;
+            while(l>-1 && r<n && s[l]==s[r]){
+                if(r-l+1>m){
+                    m=r-l+1;
+                    sl=l;
+                    sr=r;
                 }
+                l--;
+                r++;
+            }
+            l=i-1,r=i;
+            while(l>-1 && r<n && s[l]==s[r]){
+                if(r-l+1>m){
+                    m=r-l+1;
+                    sl=l;
+                    sr=r;
+                }
+                l--;
+                r++;
             }
         }
-        return ans;
-    }
-
-    bool ispalindrome(const string& s, int l, int r) {
-        while (l < r) {
-            if (s[l] != s[r]) return false;
-            l++;
-            r--;
-        }
-        return true;
+        return s.substr(sl,m);
     }
 };
