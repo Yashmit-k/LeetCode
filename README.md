@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Yashmit-k/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Yashmit-k/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Yashmit-k/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Yashmit-k/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashmit-k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Yashmit-k/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Yashmit-k/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Yashmit-k/LeetCode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashmit-k/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
