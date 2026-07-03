@@ -3,6 +3,7 @@ public:
     int longestConsecutive(vector<int>& nums) {
         if(nums.size()==0)return 0;
         unordered_set<int> s;
+        s.reserve(nums.size());
         for(auto i:nums){
             s.insert(i);
         }
