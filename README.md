@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Yashmit-k/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yashmit-k/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Yashmit-k/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Yashmit-k/LeetCode/tree/master/0322-coin-change) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashmit-k/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yashmit-k/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/Yashmit-k/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yashmit-k/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Yashmit-k/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Yashmit-k/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yashmit-k/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Yashmit-k/LeetCode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Yashmit-k/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashmit-k/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Yashmit-k/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yashmit-k/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yashmit-k/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashmit-k/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yashmit-k/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Yashmit-k/LeetCode/tree/master/0455-assign-cookies) |
 ## Tree
