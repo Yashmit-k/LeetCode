@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashmit-k/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Yashmit-k/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Yashmit-k/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Yashmit-k/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Yashmit-k/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yashmit-k/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yashmit-k/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1901-find-a-peak-element-ii) |
