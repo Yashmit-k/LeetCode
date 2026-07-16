@@ -1,11 +1,6 @@
 class Solution {
 public:
-    bool check(vector<int>& a,vector<int>& b){
-        for(int i=0;i<26;i++){
-            if(a[i]!=b[i]) return false;
-        }
-        return true;
-    }
+
     vector<int> findAnagrams(string s, string p) {
         vector<int> a(26,0);
         vector<int> b(26,0);
