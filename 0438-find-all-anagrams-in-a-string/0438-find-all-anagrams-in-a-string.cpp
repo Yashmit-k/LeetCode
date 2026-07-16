@@ -17,7 +17,7 @@ public:
         for(int r=0;r<s.length();r++){
             b[s[r]-'a']++;
             if(r-l+1==size){
-                if(check(a,b)){
+                if(a==b){
                     ans.push_back(l);
                 }
                 b[s[l]-'a']--;
