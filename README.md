@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yashmit-k/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
+| [1033-moving-stones-until-consecutive](https://github.com/Yashmit-k/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yashmit-k/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashmit-k/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
@@ -497,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Yashmit-k/LeetCode/tree/master/0146-lru-cache) |
+## Brainteaser
+|  |
+| ------- |
+| [1033-moving-stones-until-consecutive](https://github.com/Yashmit-k/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
 <!---LeetCode Topics End-->
