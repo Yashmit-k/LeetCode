@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Yashmit-k/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2745-construct-the-longest-new-string](https://github.com/Yashmit-k/LeetCode/tree/master/2745-construct-the-longest-new-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Yashmit-k/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Linked List
 |  |
 | ------- |
@@ -515,8 +517,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
 | [2745-construct-the-longest-new-string](https://github.com/Yashmit-k/LeetCode/tree/master/2745-construct-the-longest-new-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Yashmit-k/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Yashmit-k/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
