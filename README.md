@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yashmit-k/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashmit-k/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Yashmit-k/LeetCode/tree/master/0455-assign-cookies) |
+| [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
 ## Tree
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yashmit-k/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yashmit-k/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
 ## Interactive
 |  |
 | ------- |
@@ -504,4 +507,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/Yashmit-k/LeetCode/tree/master/0319-bulb-switcher) |
 | [1033-moving-stones-until-consecutive](https://github.com/Yashmit-k/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
+| [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
 <!---LeetCode Topics End-->
