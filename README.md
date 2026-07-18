@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yashmit-k/LeetCode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2745-construct-the-longest-new-string](https://github.com/Yashmit-k/LeetCode/tree/master/2745-construct-the-longest-new-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yashmit-k/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashmit-k/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Yashmit-k/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -512,4 +514,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-moving-stones-until-consecutive](https://github.com/Yashmit-k/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
 | [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
 | [2745-construct-the-longest-new-string](https://github.com/Yashmit-k/LeetCode/tree/master/2745-construct-the-longest-new-string) |
+| [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
