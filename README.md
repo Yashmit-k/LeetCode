@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yashmit-k/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Yashmit-k/LeetCode/tree/master/0319-bulb-switcher) |
+| [0382-linked-list-random-node](https://github.com/Yashmit-k/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 | [1033-moving-stones-until-consecutive](https://github.com/Yashmit-k/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yashmit-k/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Yashmit-k/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Yashmit-k/LeetCode/tree/master/0382-linked-list-random-node) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -465,10 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/Yashmit-k/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/Yashmit-k/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 ## Simulation
 |  |
