@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yashmit-k/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Yashmit-k/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Yashmit-k/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Yashmit-k/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashmit-k/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Yashmit-k/LeetCode/tree/master/0319-bulb-switcher) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yashmit-k/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Yashmit-k/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashmit-k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -552,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yashmit-k/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yashmit-k/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
