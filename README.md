@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yashmit-k/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Yashmit-k/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Yashmit-k/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Yashmit-k/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Yashmit-k/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yashmit-k/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashmit-k/LeetCode/tree/master/0189-rotate-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yashmit-k/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Yashmit-k/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Yashmit-k/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Yashmit-k/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Yashmit-k/LeetCode/tree/master/0118-pascals-triangle) |
@@ -573,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yashmit-k/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Yashmit-k/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
