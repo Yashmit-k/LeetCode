@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Yashmit-k/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Yashmit-k/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yashmit-k/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yashmit-k/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashmit-k/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Yashmit-k/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Yashmit-k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yashmit-k/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Yashmit-k/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Yashmit-k/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yashmit-k/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Yashmit-k/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Yashmit-k/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yashmit-k/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Yashmit-k/LeetCode/tree/master/0547-number-of-provinces) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yashmit-k/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Yashmit-k/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yashmit-k/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
