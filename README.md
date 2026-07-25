@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2745-construct-the-longest-new-string](https://github.com/Yashmit-k/LeetCode/tree/master/2745-construct-the-longest-new-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/Yashmit-k/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Yashmit-k/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Linked List
 |  |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yashmit-k/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
+| [3536-maximum-product-of-two-digits](https://github.com/Yashmit-k/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
