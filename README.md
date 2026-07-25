@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Yashmit-k/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashmit-k/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Yashmit-k/LeetCode/tree/master/0704-binary-search) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Yashmit-k/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1463-cherry-pickup-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Yashmit-k/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Yashmit-k/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yashmit-k/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Yashmit-k/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Yashmit-k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Yashmit-k/LeetCode/tree/master/0994-rotting-oranges) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Yashmit-k/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yashmit-k/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Yashmit-k/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Yashmit-k/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
