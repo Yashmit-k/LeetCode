@@ -1,0 +1,10 @@
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        int a=nums.back();
+        nums.pop_back();
+        int b=nums.back();
+        return (a-1)*(b-1);
+    }
+};
