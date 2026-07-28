@@ -6,6 +6,7 @@ public:
             a[i - 'a']++;
         }
         string left = "", middle;
+        left.reserve(s.size() / 2);
         for (int i = 0; i < 26; i++) {
 
             left.append(a[i] / 2, 'a' + i);
