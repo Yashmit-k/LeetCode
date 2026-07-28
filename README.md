@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Yashmit-k/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Yashmit-k/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashmit-k/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashmit-k/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashmit-k/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashmit-k/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -677,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Yashmit-k/LeetCode/tree/master/0901-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashmit-k/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
