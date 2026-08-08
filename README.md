@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Yashmit-k/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Yashmit-k/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yashmit-k/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Yashmit-k/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Yashmit-k/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Yashmit-k/LeetCode/tree/master/0319-bulb-switcher) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Yashmit-k/LeetCode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Yashmit-k/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Yashmit-k/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Yashmit-k/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Yashmit-k/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Yashmit-k/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Yashmit-k/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Yashmit-k/LeetCode/tree/master/0257-binary-tree-paths) |
