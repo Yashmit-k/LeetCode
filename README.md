@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-moving-stones-until-consecutive](https://github.com/Yashmit-k/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashmit-k/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yashmit-k/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/Yashmit-k/LeetCode/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashmit-k/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yashmit-k/LeetCode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Yashmit-k/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashmit-k/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1463-cherry-pickup-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/Yashmit-k/LeetCode/tree/master/1510-stone-game-iv) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Yashmit-k/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2745-construct-the-longest-new-string](https://github.com/Yashmit-k/LeetCode/tree/master/2745-construct-the-longest-new-string) |
 ## Stack
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/Yashmit-k/LeetCode/tree/master/1510-stone-game-iv) |
 | [3227-vowels-game-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Yashmit-k/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search Tree
@@ -707,4 +710,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Yashmit-k/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Yashmit-k/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Yashmit-k/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Yashmit-k/LeetCode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Yashmit-k/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
