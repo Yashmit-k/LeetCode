@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Yashmit-k/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Yashmit-k/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0396-rotate-function](https://github.com/Yashmit-k/LeetCode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Yashmit-k/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Yashmit-k/LeetCode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Yashmit-k/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/Yashmit-k/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0396-rotate-function](https://github.com/Yashmit-k/LeetCode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 | [1033-moving-stones-until-consecutive](https://github.com/Yashmit-k/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashmit-k/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Yashmit-k/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Yashmit-k/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Yashmit-k/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0396-rotate-function](https://github.com/Yashmit-k/LeetCode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Yashmit-k/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Yashmit-k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
