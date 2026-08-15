@@ -14,11 +14,12 @@ public:
                 else if (i=="-") {
                     s.push(b - a);
                 } 
-                else if (i=="/") {
-                    s.push(b / a);
-                } 
+                
                 else if (i=="*") {
                     s.push(b * a);
+                }
+                else{
+                    s.push(b / a);
                 }
             }
             else{
