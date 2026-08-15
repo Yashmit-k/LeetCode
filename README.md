@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yashmit-k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yashmit-k/LeetCode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Yashmit-k/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/Yashmit-k/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yashmit-k/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Yashmit-k/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yashmit-k/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/Yashmit-k/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/Yashmit-k/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yashmit-k/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yashmit-k/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Yashmit-k/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Yashmit-k/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Yashmit-k/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yashmit-k/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
