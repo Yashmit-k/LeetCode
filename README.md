@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashmit-k/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Yashmit-k/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yashmit-k/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yashmit-k/LeetCode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Yashmit-k/LeetCode/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yashmit-k/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Data Stream
 |  |
 | ------- |
