@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashmit-k/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Yashmit-k/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yashmit-k/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashmit-k/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yashmit-k/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yashmit-k/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1463-cherry-pickup-ii) |
