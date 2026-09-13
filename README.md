@@ -765,4 +765,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-print-foobar-alternately](https://github.com/Yashmit-k/LeetCode/tree/master/1115-print-foobar-alternately) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yashmit-k/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yashmit-k/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
