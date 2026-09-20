@@ -8,7 +8,7 @@ public:
             for(int i=0;i<n;i++){
                 sum+=ceil((double)nums[i]/m);
                 if(sum>threshold){
-                    l=m+1;
+                    break;
                 }
             }
             if(sum>threshold){
