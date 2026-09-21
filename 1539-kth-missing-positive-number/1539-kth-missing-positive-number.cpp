@@ -8,8 +8,6 @@ public:
             if(d>=k)r=mid-1;
             else l=mid+1;
         }
-        if(r==-1)return k;
-        int x=arr[r]-r-1;
-        return arr[r]-x+k;
+        return l+k;
     }
 };
