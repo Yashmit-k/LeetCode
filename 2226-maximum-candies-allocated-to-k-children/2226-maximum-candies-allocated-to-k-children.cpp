@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool check(int mid,vector<int>& c,long long k){
-        for(auto i:c){
+        for(int i:c){
             k-=i/mid;
             if(k<=0)return true;
         }
