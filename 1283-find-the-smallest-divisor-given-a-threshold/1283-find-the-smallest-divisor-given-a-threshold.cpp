@@ -6,10 +6,7 @@ public:
             int mid=l+(r-l)/2;
             int sum=0;
             for(auto i:nums){
-                if(i<=mid)sum+=1;
-                else if(i%mid==0)sum+=i/mid;
-                else sum+=(i/mid)+1;
-
+                sum+= (i+mid-1)/mid;
                 if(sum>threshold){
                     break;
                 }
