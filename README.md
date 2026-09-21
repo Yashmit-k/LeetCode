@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Yashmit-k/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashmit-k/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Yashmit-k/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2731-movement-of-robots](https://github.com/Yashmit-k/LeetCode/tree/master/2731-movement-of-robots) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashmit-k/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashmit-k/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Yashmit-k/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Yashmit-k/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashmit-k/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Yashmit-k/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
 | ------- |
